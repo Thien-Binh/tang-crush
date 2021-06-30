@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'Giữa anh với em thì ai là kẻ đáng bị đấm hơn =)))',
     btnYes: 'BichTram :3',
     btnNo: 'ThienBinh =(((',
-    question:'Em có yêu anh nhiều honggg tại sao á',
+    question:'Em có yêu anh nhiều honggg tại sao á?',
     btnReply: 'Gửi cho anh <3',
     reply: 'Công chúa của anh yêu anh nhấttt tại vì anh siêu cấp deep traiii',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
